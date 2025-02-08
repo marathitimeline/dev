@@ -1,0 +1,138 @@
+{
+  "semesters": [
+    {
+      "semester": 1,
+      "pdfs": [
+        {
+          "name": "Mathematics-I",
+          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+        },
+        {
+          "name": "Physics-I",
+          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "pdfs": [
+        {
+          "name": "Mathematics-II",
+          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+        },
+        {
+          "name": "Chemistry",
+          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "pdfs": [
+        {
+          "name": "Data Structures",
+          "url": "https://example.com/pdfs/sem3/ds.pdf"
+        },
+        {
+          "name": "Algorithms",
+          "url": "https://example.com/pdfs/sem3/algo.pdf"
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "pdfs": [
+        {
+          "name": "Operating Systems",
+          "url": "https://example.com/pdfs/sem4/os.pdf"
+        },
+        {
+          "name": "Database Management",
+          "url": "https://example.com/pdfs/sem4/dbms.pdf"
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "pdfs": [
+        {
+          "name": "Computer Networks",
+          "url": "https://example.com/pdfs/sem5/cn.pdf"
+        },
+        {
+          "name": "Software Engineering",
+          "url": "https://example.com/pdfs/sem5/se.pdf"
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "pdfs": [
+        {
+          "name": "Artificial Intelligence",
+          "url": "https://example.com/pdfs/sem6/ai.pdf"
+        },
+        {
+          "name": "Machine Learning",
+          "url": "https://example.com/pdfs/sem6/ml.pdf"
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "pdfs": [
+        {
+          "name": "Cloud Computing",
+          "url": "https://example.com/pdfs/sem7/cc.pdf"
+        },
+        {
+          "name": "Big Data Analytics",
+          "url": "https://example.com/pdfs/sem7/bda.pdf"
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "pdfs": [
+        {
+          "name": "Project Management",
+          "url": "https://example.com/pdfs/sem8/pm.pdf"
+        },
+        {
+          "name": "Ethical Hacking",
+          "url": "https://example.com/pdfs/sem8/eh.pdf"
+        }
+      ]
+    }
+  ],
+  "reference_books": [
+    {
+      "name": "Introduction to Algorithms",
+      "url": "https://example.com/pdfs/ref/algorithm_book.pdf"
+    },
+    {
+      "name": "Clean Code",
+      "url": "https://example.com/pdfs/ref/clean_code.pdf"
+    }
+  ],
+  "mcqs": [
+    {
+      "name": "General Aptitude MCQ",
+      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+    },
+    {
+      "name": "Technical MCQ",
+      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+    }
+  ],
+  "question_papers": [
+    {
+      "name": "Semester 1 Question Paper",
+      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+    },
+    {
+      "name": "Semester 2 Question Paper",
+      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+    }
+  ]
+}
