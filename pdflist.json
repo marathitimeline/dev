@@ -6,6 +6,7 @@
         {
           "name": "Mathematics-I",
           "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+          "download":true
         }
         
       ]
@@ -15,11 +16,19 @@
       "pdfs": [
         {
           "name": "Mathematics-II",
-          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
+          "download": false
+          
         },
         {
           "name": "Chemistry",
-          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
+          "download": "true"
+        },
+        {
+          "name": "Chemistry",
+          "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
+          "download": "false"
         }
       ]
     },
