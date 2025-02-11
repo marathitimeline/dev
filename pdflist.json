@@ -23,12 +23,12 @@
         {
           "name": "Chemistry",
           "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
-          "download": "true"
+          "download":true
         },
         {
           "name": "Chemistry",
           "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
-          "download": "false"
+          "download":true
         }
       ]
     },
@@ -37,11 +37,13 @@
       "pdfs": [
         {
           "name": "Data Structures",
-          "url": "https://example.com/pdfs/sem3/ds.pdf"
+          "url": "https://example.com/pdfs/sem3/ds.pdf",
+          "download":true
         },
         {
           "name": "Algorithms",
-          "url": "https://example.com/pdfs/sem3/algo.pdf"
+          "url": "https://example.com/pdfs/sem3/algo.pdf",
+          "download":true
         }
       ]
     },
@@ -50,11 +52,13 @@
       "pdfs": [
         {
           "name": "Operating Systems",
-          "url": "https://example.com/pdfs/sem4/os.pdf"
+          "url": "https://example.com/pdfs/sem4/os.pdf",
+          "download":true
         },
         {
           "name": "Database Management",
-          "url": "https://example.com/pdfs/sem4/dbms.pdf"
+          "url": "https://example.com/pdfs/sem4/dbms.pdf",
+          "download":true
         }
       ]
     },
@@ -63,11 +67,13 @@
       "pdfs": [
         {
           "name": "Computer Networks",
-          "url": "https://example.com/pdfs/sem5/cn.pdf"
+          "url": "https://example.com/pdfs/sem5/cn.pdf",
+          "download":true
         },
         {
           "name": "Software Engineering",
-          "url": "https://example.com/pdfs/sem5/se.pdf"
+          "url": "https://example.com/pdfs/sem5/se.pdf",
+          "download":true
         }
       ]
     },
@@ -76,11 +82,13 @@
       "pdfs": [
         {
           "name": "Artificial Intelligence",
-          "url": "https://example.com/pdfs/sem6/ai.pdf"
+          "url": "https://example.com/pdfs/sem6/ai.pdf",
+          "download":true
         },
         {
           "name": "Machine Learning",
-          "url": "https://example.com/pdfs/sem6/ml.pdf"
+          "url": "https://example.com/pdfs/sem6/ml.pdf",
+          "download":true
         }
       ]
     },
@@ -89,11 +97,13 @@
       "pdfs": [
         {
           "name": "Cloud Computing",
-          "url": "https://example.com/pdfs/sem7/cc.pdf"
+          "url": "https://example.com/pdfs/sem7/cc.pdf",
+          "download":true
         },
         {
           "name": "Big Data Analytics",
-          "url": "https://example.com/pdfs/sem7/bda.pdf"
+          "url": "https://example.com/pdfs/sem7/bda.pdf",
+          "download":true
         }
       ]
     },
@@ -102,11 +112,13 @@
       "pdfs": [
         {
           "name": "Project Management",
-          "url": "https://www.princexml.com/samples/invoice/invoicesample.pdf"
+          "url": "https://www.princexml.com/samples/invoice/invoicesample.pdf",
+          "download":true
         },
         {
           "name": "Ethical Hacking",
-          "url": "https://www.princexml.com/samples/invoice/invoicesample.pdf"
+          "url": "https://www.princexml.com/samples/invoice/invoicesample.pdf",
+          "download":true
         }
       ]
     }
@@ -114,31 +126,37 @@
   "reference_books": [
     {
       "name": "Introduction to Algorithms",
-      "url": "https://example.com/pdfs/ref/algorithm_book.pdf"
+      "url": "https://example.com/pdfs/ref/algorithm_book.pdf",
+          "download":true
     },
     {
       "name": "Clean Code",
-      "url": "https://example.com/pdfs/ref/clean_code.pdf"
+      "url": "https://example.com/pdfs/ref/clean_code.pdf",
+          "download":true
     }
   ],
   "mcqs": [
     {
       "name": "General Aptitude MCQ",
-      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
+          "download":true
     },
     {
       "name": "Technical MCQ",
-      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
+          "download":true
     }
   ],
   "question_papers": [
     {
       "name": "Semester 1 Question Paper",
-      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
+          "download":true
     },
     {
       "name": "Semester 2 Question Paper",
-      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
+      "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
+          "download":true
     }
   ]
 }
