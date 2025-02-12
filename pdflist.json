@@ -151,12 +151,12 @@
     {
       "name": "Semester 1 Question Paper",
       "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
-          "download":true
+          "download": false
     },
     {
       "name": "Semester 2 Question Paper",
       "url": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf",
-          "download":true
+          "download":false
     }
   ]
 }
