@@ -1,5 +1,6 @@
 [
   {
+    "type": "local",
     "videoUrl": "https://test.com/bgmi/videos/video1.mp4",
     "name": ["john", "peter"],
     "date": "26-06-2025",
@@ -8,7 +9,8 @@
     "heading": "First Match Highlights"
   },
   {
-    "videoUrl": "https://youtu.be/69swgButnMs?feature=shared",
+    "type": "youtube",
+    "videoUrl": "https://www.youtube.com/watch?v=69swgButnMs",
     "name": ["alex", "mike"],
     "date": "25-06-2025",
     "event": "championship",
