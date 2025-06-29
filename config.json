@@ -1,38 +1,23 @@
 [
-          {
-            videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            name: ["john", "peter"],
-            date: "26-06-2025",
-            event: "rangnok"
-          },
-          {
-            videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-            name: ["alex", "mike"],
-            date: "25-06-2025",
-            event: "championship"
-          },
-          {
-            videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-            name: ["john", "sarah"],
-            date: "24-06-2025",
-            event: "showdown"
-          },
-          {
-            videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-            name: ["peter", "dave"],
-            date: "23-06-2025",
-            event: "rangnok"
-          },
-          {
-            videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-            name: ["mike", "sarah"],
-            date: "22-06-2025",
-            event: "championship"
-          },
-          {
-            videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-            name: ["alex", "dave"],
-            date: "21-06-2025",
-            event: "showdown"
-          }
-        ];
+  {
+    "videoUrl": "https://test.com/bgmi/videos/video1.mp4",
+    "name": ["john", "peter"],
+    "date": "26-06-2025",
+    "event": "rangnok",
+    "thumbnail": "https://test.com/bgmi/thumbnails/thumb1.jpg"
+  },
+  {
+    "videoUrl": "https://test.com/bgmi/videos/video2.mp4",
+    "name": ["alex", "mike"],
+    "date": "25-06-2025",
+    "event": "championship",
+    "thumbnail": "https://test.com/bgmi/thumbnails/thumb2.jpg"
+  },
+  {
+    "videoUrl": "https://test.com/bgmi/videos/video3.mp4",
+    "name": ["sarah", "dave"],
+    "date": "24-06-2025",
+    "event": "showdown",
+    "thumbnail": "https://test.com/bgmi/thumbnails/thumb3.jpg"
+  }
+]
