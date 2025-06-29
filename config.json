@@ -43,5 +43,14 @@
     "event": "Discovery Island",
     "thumbnail": "https://wallpapercave.com/wp/wp9876027.jpg",
     "heading": "Dialog King"
+  },
+  {
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v5.mp4",
+    "name": ["Vishal"],
+    "date": "26-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "https://wallpapercave.com/wp/wp9876027.jpg",
+    "heading": "The Camper"
   }
 ]
