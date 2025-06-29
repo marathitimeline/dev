@@ -79,6 +79,15 @@
     "event": "Discovery Island",
     "thumbnail": "",
     "heading": "गोष्ट बेब्लेड ची"
+  },
+  {
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v8.mp4",
+    "name": ["Vishal"],
+    "date": "30-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "",
+    "heading": "नजर हटी, दुर्घटना घटी"
   }
 
 ]
