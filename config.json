@@ -4,20 +4,15 @@
     "name": ["john", "peter"],
     "date": "26-06-2025",
     "event": "rangnok",
-    "thumbnail": "https://test.com/bgmi/thumbnails/thumb1.jpg"
+    "thumbnail": "https://test.com/bgmi/thumbnails/thumb1.jpg",
+    "heading": "First Match Highlights"
   },
   {
     "videoUrl": "https://test.com/bgmi/videos/video2.mp4",
     "name": ["alex", "mike"],
     "date": "25-06-2025",
     "event": "championship",
-    "thumbnail": "https://test.com/bgmi/thumbnails/thumb2.jpg"
-  },
-  {
-    "videoUrl": "https://test.com/bgmi/videos/video3.mp4",
-    "name": ["sarah", "dave"],
-    "date": "24-06-2025",
-    "event": "showdown",
-    "thumbnail": "https://test.com/bgmi/thumbnails/thumb3.jpg"
+    "thumbnail": "https://test.com/bgmi/thumbnails/thumb2.jpg",
+    "heading": "Championship Finals"
   }
 ]
