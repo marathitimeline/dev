@@ -52,5 +52,33 @@
     "event": "Discovery Island",
     "thumbnail": "https://i.ytimg.com/vi/vLXlMTtnv4I/maxresdefault.jpg",
     "heading": "The Camper"
+  },
+  {
+    "type": "youtube",
+    "videoUrl": "https://www.youtube.com/watch?v=xGXEBiKGnJ0?t=1156",
+    "name": ["Ajay", "Vishal" ,"Kiran", "shirish"],
+    "date": "29-06-2025",
+    "event": "अटॅचमेंट किंग ड्रायविंग",
+    "thumbnail": "https://wallpapercave.com/wp/wp9876050.jpg",
+    "heading": "Gameplay"
+  },
+{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v6.mp4",
+    "name": ["Ajay"],
+    "date": "26-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "https://i.ytimg.com/vi/vLXlMTtnv4I/maxresdefault.jpg",
+    "heading": "AJ's ScarL"
+  },
+{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v7.mp4",
+    "name": ["Kiran"],
+    "date": "26-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "https://i.ytimg.com/vi/vLXlMTtnv4I/maxresdefault.jpg",
+    "heading": "गोष्ट बेब्लेड ची"
   }
+
 ]
