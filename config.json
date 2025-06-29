@@ -1,20 +1,47 @@
 [
   {
     "type": "local",
-    "videoUrl": "https://test.com/bgmi/videos/video1.mp4",
-    "name": ["john", "peter"],
+    "videoUrl": "https://devsm.in/bgmi/assets/v1.mp4",
+    "name": ["Shirish"],
     "date": "26-06-2025",
-    "event": "rangnok",
+    "event": "Discovery Island",
     "thumbnail": "https://wallpapercave.com/wp/wp9876027.jpg",
-    "heading": "First Match Highlights"
+    "heading": "BMW Cover"
   },
   {
     "type": "youtube",
     "videoUrl": "https://www.youtube.com/watch?v=69swgButnMs",
-    "name": ["alex", "mike"],
+    "name": ["Ajay", "Vishal" ,"Kiran"],
     "date": "25-06-2025",
-    "event": "championship",
+    "event": "Discovery Island",
     "thumbnail": "https://wallpapercave.com/wp/wp9876050.jpg",
-    "heading": "Championship Finals"
-  }
+    "heading": "The Camper"
+  },
+{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v2.mp4",
+    "name": ["Kiran"],
+    "date": "26-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "https://wallpapercave.com/wp/wp9876027.jpg",
+    "heading": "DBS King"
+  },
+{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v3.mp4",
+    "name": ["Kiran"],
+    "date": "26-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "https://wallpapercave.com/wp/wp9876027.jpg",
+    "heading": "The P90 show"
+  },
+{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v4.mp4",
+    "name": ["Ajay"],
+    "date": "26-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "https://wallpapercave.com/wp/wp9876027.jpg",
+    "heading": "Dialog King"
+  },
 ]
