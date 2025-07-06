@@ -88,6 +88,38 @@
     "event": "Discovery Island",
     "thumbnail": "",
     "heading": "नजर हटी, दुर्घटना घटी"
+  },{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v9.mp4",
+    "name": ["Kiran","Shirish"],
+    "date": "30-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "",
+    "heading": "बदला शेर का"
+  },{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v10.mp4",
+    "name": ["Akash","Kiran","Shirish","Ajay"],
+    "date": "30-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "",
+    "heading": "ग्रेनेडीएर ओपी"
+  },{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v11.mp4",
+    "name": ["Kiran"],
+    "date": "30-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "",
+    "heading": "उडता ही फिरू"
+  },{
+    "type": "local",
+    "videoUrl": "https://devsm.in/bgmi/assets/v12.mp4",
+    "name": ["Akash","Kiran","Shirish","Ajay"],
+    "date": "30-06-2025",
+    "event": "Discovery Island",
+    "thumbnail": "",
+    "heading": "हेवी आकाश"
   }
 
 ]
